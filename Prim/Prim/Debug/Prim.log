@@ -1,0 +1,3 @@
+﻿  Source.cpp
+m:\programming\graph theory\exam practice\prim\prim\source.cpp(10): fatal error C1060: compiler is out of heap space
+  m:\programming\graph theory\exam practice\prim\prim\source.cpp(10): note: This diagnostic occurred in the compiler generated function 'graph::graph(void)'

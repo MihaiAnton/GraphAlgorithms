@@ -1,0 +1,8 @@
+﻿  Source.cpp
+m:\programming\graph theory\exam practice\bellmanford\bellmanford\source.cpp(58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 346 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BellmanFord.vcxproj -> M:\Programming\Graph Theory\Exam practice\BellmanFord\x64\Release\BellmanFord.exe

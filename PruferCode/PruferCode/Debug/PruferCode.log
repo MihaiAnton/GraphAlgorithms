@@ -1,0 +1,4 @@
+﻿  Source.cpp
+m:\programming\graph theory\exam practice\prufercode\prufercode\source.cpp(40): warning C4715: 'getMinLeaf': not all control paths return a value
+m:\programming\graph theory\exam practice\prufercode\prufercode\source.cpp(82): warning C4715: 'getLeafFromPrufer': not all control paths return a value
+  PruferCode.vcxproj -> M:\Programming\Graph Theory\Exam practice\PruferCode\Debug\PruferCode.exe
