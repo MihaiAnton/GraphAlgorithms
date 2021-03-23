@@ -1,4 +1,4 @@
-# GraphAlgorithms
+# GraphAlgorithms - UBB MSc
 Contains the most important algorithms for graph structures.
 
 Most of them are written in C/C++.
